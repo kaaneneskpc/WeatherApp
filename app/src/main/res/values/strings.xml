@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="splash_screen_text">Find The Sun?</string>
+    <string name="about_app_text">Weather App v1.0</string>
+    <string name="copy_right_text">Copyright for kaaneneskpc</string>
+    <string name="copy_right_year_text">2022</string>
+    <string name="added_fav_list">City added from Favorites List</string>
+    <string name="removed_fav_list">City removed from Favorites List</string>
+    <string name="settings_change_measure_text">Change Measurement</string>
+    <string name="settings_change_measure_text_save">Save</string>
+</resources>
