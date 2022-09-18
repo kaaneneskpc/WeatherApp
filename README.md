@@ -16,7 +16,7 @@ Weather App with Using Compose
 <li><a href="https://developer.android.com/studio/test">Testing</a> ViewModel, LiveData, DataBinding and more component are testing for best result of app </li>
 </ul>
 
-#  Good Points🟢
+#  Good Points 🟢
 
 <ul align="left">
 <li>Not XML anymore </li>
@@ -27,7 +27,7 @@ Weather App with Using Compose
 <li>Easy Test Implementation</li>
 </ul>
 
-# Screenshoots 
+# Screenshoots 📷 
 
 <table>
   <tr>
@@ -38,3 +38,8 @@ Weather App with Using Compose
 <td><img width="200" alt="Screen Shot 2022-09-18 at 13 32 15" src="https://user-images.githubusercontent.com/32849662/190898399-12d41ec2-cfef-41e2-b2e3-c9780ae2da18.png"></td>
  </tr>
 </table>
+
+# ScreenRecorder 🎥
+
+https://user-images.githubusercontent.com/32849662/190898810-ddd588e1-77bc-4d48-a5c1-9a2808cfad6d.mp4
+
